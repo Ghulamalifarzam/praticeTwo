@@ -1,6 +1,6 @@
-package com.hello;
+package jam.hello;
 
-public class NewClass2 {
+public class NewClass1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
